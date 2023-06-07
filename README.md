@@ -1,5 +1,6 @@
 # Thuc_hanh_NLP
 thực hành xử lý ngôn ngữ tự nhiên
+https://github.com/huypocrisy/Thuc_hanh_NLP/blob/main/wordcloud.png 
 Xử lý ngôn ngữ tự nhiên (NLP - Natural Language Processing), là một lĩnh vực nằm ở giao điểm giữa ngôn ngữ học và máy tính học, dùng để giúp cho máy tính có khả năng hiểu, phân tích và tạo ra ngôn ngữ mà con người sử dụng hàng ngày.
 
 Mô hình NLP hoạt động bằng cách phân tích các từ, cụm từ và cấu trúc ngữ pháp để nắm bắt ý nghĩa và ngữ cảnh, sau đó tạo ra các câu trả lời phù hợp với những gì bạn hỏi.
